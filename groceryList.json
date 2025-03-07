@@ -1,0 +1,16 @@
+{
+  "grocery_list": [
+    {
+      "name": "Milk",
+      "price": 1.2,
+      "quantity": 2,
+      "purchased": false
+    },
+    {
+      "name": "Banana",
+      "price": 0.62,
+      "quantity": 3,
+      "purchased": true
+    }
+  ]
+}

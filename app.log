@@ -1,0 +1,17 @@
+2025-03-07T20:48:02.128Z [info]: Server is running on http://localhost:3000
+2025-03-07T20:48:35.939Z [info]: [POST]: /items
+2025-03-07T20:48:35.941Z [info]: ,items
+2025-03-07T20:48:59.028Z [info]: [POST]: /items
+2025-03-07T20:48:59.029Z [info]: ,items
+2025-03-07T20:49:14.802Z [info]: [POST]: /items
+2025-03-07T20:49:14.803Z [info]: ,items
+2025-03-07T20:49:20.256Z [info]: [GET]: /items
+2025-03-07T20:49:20.257Z [info]: ,items
+2025-03-07T20:50:15.800Z [info]: [HEAD]: /items/la
+2025-03-07T20:50:15.801Z [info]: ,items,la
+2025-03-07T20:50:36.426Z [info]: [DELETE]: /items/Bread
+2025-03-07T20:50:36.427Z [info]: ,items,Bread
+2025-03-07T20:50:47.487Z [info]: [DELETE]: /items/Bread
+2025-03-07T20:50:47.488Z [info]: ,items,Bread
+2025-03-07T20:51:16.426Z [info]: [PUT]: /items/Banana
+2025-03-07T20:51:16.427Z [info]: ,items,Banana

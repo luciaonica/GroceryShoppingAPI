@@ -1,0 +1,21 @@
+{
+  "name": "groceryshoppingapi",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/luciaonica/GroceryShoppingAPI#readme",
+  "bugs": {
+    "url": "https://github.com/luciaonica/GroceryShoppingAPI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luciaonica/GroceryShoppingAPI.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {"winston": "3.17.0"}
+}
